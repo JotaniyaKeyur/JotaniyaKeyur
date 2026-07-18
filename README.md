@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://huggingface.co/kd13" target="_blank">
-<img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="30"/>
+<img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="40"/>
 </a>
 </p>
 
@@ -38,10 +38,6 @@
 </a>
 
 <a href="https://huggingface.co/" target="_blank">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/huggingface/peft" target="_blank">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
 </a>
 
