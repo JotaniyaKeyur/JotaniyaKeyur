@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Keyur Jotaniya</h1>
-<h3 align="center">LLM Engineer | Generative AI | AI Research</h3>
+<h3 align="center">LLM Engineer | Computer Vision| NLP | AI Research</h3>
 
-- Currently building a **~500M parameter Mixture-of-Experts (MoE) reasoning model** for Coding & Mathematics.
-
-- Ask me about **LLM Pretraining, Fine-Tuning (SFT, LoRA, QLoRA), LLM Alignment (DPO, GRPO), Synthetic Reasoning Data Generation, Transformer Architectures, Dense & MoE Models**
+- Ask me about **LLM Pretraining, Fine-Tuning (SFT, LoRA, QLoRA), LLM Alignment (PPO, DPO, GRPO), Synthetic Reasoning Data Generation, Transformer Architectures, Dense & MoE Models, Vision Language Models (VLM)**
 
 - How to reach me **keyurjotaniya37@gmail.com**
 
