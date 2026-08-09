@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keyur Jotaniya</h1>
-<h3 align="center">LLM Engineer | Computer Vision| NLP | AI Research</h3>
+<h3 align="center">LLM Engineer | Computer Vision | NLP | AI Research</h3>
 
 - Ask me about **LLM Pretraining, Fine-Tuning (SFT, LoRA, QLoRA), LLM Alignment (PPO, DPO, GRPO), Synthetic Reasoning Data Generation, Transformer Architectures, Dense & MoE Models, Vision Language Models (VLM)**
 
