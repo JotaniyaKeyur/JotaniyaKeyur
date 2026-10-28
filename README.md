@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi, I'm Keyur Jotaniya 👋</h1>
 
 <h3 align="center">
@@ -98,4 +97,3 @@ Building efficient deep learning models, exploring modern AI architectures, and 
 </a>
 
 </p>
-```
